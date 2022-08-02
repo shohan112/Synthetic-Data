@@ -1,1 +1,10 @@
 /
+CTGAN Model Training
+• Batch Size= 500
+• Epochs= 10000
+• Embedding Dimension= 128
+• Generator Dimension= (256, 256)
+• Discriminator Dimension= (256, 256)
+• Generator Learning Rate = 0.001
+• Discriminator Learning Rate = 0.001
+• Taken from Benchmark implementation [2]
