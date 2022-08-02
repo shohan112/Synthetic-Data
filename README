@@ -1,3 +1,8 @@
+Taiwanese Bankruptcy Prediction Data Set
+• Number of Instances: 6819
+• Number of Attributes: 96
+
+
 /
 CTGAN Model Training
 • Batch Size= 500
